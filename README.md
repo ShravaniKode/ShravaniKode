@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Shravani Kode 🌟
+# Shravani Kode 
 
 ### Hey there! 👋
 
