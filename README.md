@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hey there! 👋
 
-I'm Shravani, an Electrical Engineering undergrad at IIT Bombay, navigating the exciting world of hardware acceleration and machine learning! 💻⚡
+I'm Shravani, an Electrical Engineering undergrad at IIT Bombay, navigating the exciting world of hardware and machine learning! 💻⚡
 
 - 🔭 Currently optimizing ML models on FPGAs and RISC-V architectures
 - 🌱 Exploring reinforcement learning for hardware design
